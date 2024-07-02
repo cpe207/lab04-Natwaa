@@ -3,10 +3,9 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:660610758
 
-ชื่อ-สกุล :
-
+ชื่อ-สกุล :ณัฐวรา ไชยสิทธิ์
 ให้ นศ.เขียนโปรแกรมโดยใช้ Node.js + TypeScript ตามคำสั่งของโจทย์ในข้อต่าง ๆ ตามรายละเอียดด้านล่างนี้
 
 [คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/dome_potikanond_cmu_ac_th/EdeLE2HCcmdGrvFsxrhkd4YBaUrcORwG5WRAVMPJgksl8A?e=GCS5AV)
